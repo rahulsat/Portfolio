@@ -1,0 +1,47 @@
+.p1 {
+    padding: 20px;
+    background: linear-gradient(130deg, #f5dc8c, #ffe1e1);
+}
+.p1 h1 {
+    text-align: left;
+    padding: 30px;
+}
+  
+.projects-section {
+    text-align: justify; 
+    padding: 40px 20px;
+}
+  
+.projects-container {
+    padding-left: 90px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+  
+.project-box {
+    width: 300px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Ensuring the text inside each project box is justified */
+.project-box h3, 
+.project-box p {
+    text-align: justify; 
+}
+
+.project-box:hover {
+    transform: translateY(-5px);
+}
+  
+h3 {
+    color: #333;
+}
+  
+p {
+    color: #666;
+}

@@ -1,0 +1,31 @@
+
+.s{
+    background: linear-gradient(130deg, #f5dc8c, #ffe1e1);
+    
+}
+
+.s1 h1 {
+    padding: 40px;
+    text-align: left;
+    font-family: 'Playfair Display', serif; /* Elegant & Premium Font */
+    color: #333333; /* Dark Gray for a professional look */
+    
+}
+
+.s2 {
+    margin-left: 300px;
+   
+    border: 3px solid #444444; /* Darker border for contrast */
+    padding: 30px;
+    
+    width: 65%;
+    height: 330px;
+    justify-content: space-around;
+    text-align: justify;
+    font-family: 'Merriweather', serif; /* Readable and formal */
+    font-size: 18px;
+    color: #4a4a4a; /* Subtle dark gray for readability */
+    border-radius: 10px; /* Soft rounded edges */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+

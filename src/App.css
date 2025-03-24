@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.red-text {
+    color: red;
+  }
+.sub1{
+    background: linear-gradient(135deg, #232526, #414345);
+    color: whitesmoke;
+    font-family:Cambria;
+    height: 50px;
+
+}
+.sub2{
+    width:100%;
+    height:550px;
+    background: linear-gradient(90deg, #ffefba, #ffffff);
+    font-family: Verdana;
+}
+.sub2 h1{
+    font-size: 50px;
+    padding-top: 170px;
+    padding-left: 170px;
+    font-family: 'Times New Roman';
+}
+.sub2 h2{
+    font-size: 40px;
+    padding-left: 170px;
+    font-family: 'Times New Roman';
+}
+.sub2 p{
+    padding-left: 170px;
+}
+
